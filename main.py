@@ -5,12 +5,19 @@ import random
 motivational_messages = [
 
     "You are capable of amazing things!",
+    
     "Believe you can and you're halfway there.",
+    
     "Every day is a new opportunity to grow and improve.",
+    
     "Don't let small minds convince you that your dreams are too big.",
+    
     "You have the power to create the life you want.",
+    
     "The only limit to our realization of tomorrow will be our doubts of today.",
+    
     "Life isnt about getting and having, its about giving and being."
+    
     "Whatever the mind of man can conceive and believe, it can achieve.",
 
     "Strive not to be a success, but rather to be of value.",
