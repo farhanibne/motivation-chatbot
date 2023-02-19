@@ -3,6 +3,7 @@ import random
 
 
 motivational_messages = [
+    
 
     "You are capable of amazing things!",
     
